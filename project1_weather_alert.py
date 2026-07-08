@@ -46,7 +46,7 @@ def display_weather_details(data,city):
         print("\n✅ No alerts — weather looks fine!")
      timestamp =  datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-     with open("weather_log.txt","a") as f:
+     with open("weather_log.txt","a",encoding="utf-8") as f:
          f.write(f"\n--- {timestamp} ---\n")
          f.write(f"City: {city}\n")
          f.write(f"Temp: {temp}°C, Humidity: {humidity}%, Condition: {condition}\n")

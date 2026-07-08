@@ -3,3 +3,32 @@
 City: trichy
 Temp: 29.43°C, Humidity: 49%, Condition: overcast clouds
 No alerts
+
+--- 2026-07-08 23:53:01 ---
+City: thanjavur
+Temp: 28.87°C, Humidity: 72%, Condition: overcast clouds
+No alerts
+
+--- 2026-07-08 23:53:13 ---
+City: chennai
+Temp: 31.29°C, Humidity: 73%, Condition: overcast clouds
+No alerts
+
+--- 2026-07-08 23:53:29 ---
+City: sydney
+Temp: 10.44°C, Humidity: 77%, Condition: light rain
+
+--- 2026-07-08 23:54:38 ---
+City: canada
+Temp: 35.74Â°C, Humidity: 14%, Condition: clear sky
+ALERT:ðŸ”¥ HIGH TEMPERATURE ALERT: 35.74Â°C
+
+--- 2026-07-08 23:54:48 ---
+City: europe
+Temp: 24.21Â°C, Humidity: 59%, Condition: overcast clouds
+No alerts
+
+--- 2026-07-08 23:54:56 ---
+City: france
+Temp: 25.82Â°C, Humidity: 83%, Condition: broken clouds
+ALERT:ðŸ’§ HIGH HUMIDITY ALERT: 83%
