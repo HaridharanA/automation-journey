@@ -32,3 +32,63 @@ No alerts
 City: france
 Temp: 25.82°C, Humidity: 83%, Condition: broken clouds
 ALERT:💧 HIGH HUMIDITY ALERT: 83%
+
+--- 2026-07-09 22:46:34 ---
+City: madurai
+Temp: 30.03°C, Humidity: 54%, Condition: overcast clouds
+No alerts
+
+--- 2026-07-09 22:48:28 ---
+City: madurai
+Temp: 30.03°C, Humidity: 54%, Condition: overcast clouds
+No alerts
+
+--- 2026-07-09 22:49:14 ---
+City: madurai
+Temp: 30.03°C, Humidity: 54%, Condition: overcast clouds
+No alerts
+
+--- 2026-07-09 22:49:22 ---
+City: chennai
+Temp: 29.25°C, Humidity: 80%, Condition: overcast clouds
+No alerts
+
+--- 2026-07-09 22:49:26 ---
+City: thanjavur
+Temp: 28.87°C, Humidity: 76%, Condition: overcast clouds
+No alerts
+
+--- 2026-07-09 22:49:30 ---
+City: trichy
+Temp: 29.76°C, Humidity: 56%, Condition: overcast clouds
+No alerts
+
+--- 2026-07-09 22:49:33 ---
+City: mumbai
+Temp: 28.86°C, Humidity: 81%, Condition: overcast clouds
+ALERT:💧 HIGH HUMIDITY ALERT: 81%
+
+--- 2026-07-09 22:52:22 ---
+City: madurai
+Temp: 30.03°C, Humidity: 54%, Condition: overcast clouds
+No alerts
+
+--- 2026-07-09 22:52:23 ---
+City: trichy
+Temp: 29.76°C, Humidity: 56%, Condition: overcast clouds
+No alerts
+
+--- 2026-07-09 22:52:26 ---
+City: chennai
+Temp: 29.25°C, Humidity: 80%, Condition: overcast clouds
+No alerts
+
+--- 2026-07-09 22:52:28 ---
+City: thanjavur
+Temp: 28.87°C, Humidity: 76%, Condition: overcast clouds
+No alerts
+
+--- 2026-07-09 22:52:31 ---
+City: mannargudi
+Temp: 29.11°C, Humidity: 67%, Condition: overcast clouds
+No alerts
