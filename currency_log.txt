@@ -153,3 +153,59 @@
 1 JPY = 0.59 INR
 1 AED = 26.03 INR
 ---------------
+
+ 11 :35 : 26 AM
+1 USD = 95.51 INR 
+1 EUR = 109.08 INR
+1 GBP = 127.89 INR
+1 JPY = 0.59 INR
+1 AED = 26.0 INR
+---------------
+
+ 11 :35 : 36 AM
+1 USD = 95.51 INR 
+1 EUR = 109.08 INR
+1 GBP = 127.89 INR
+1 JPY = 0.59 INR
+1 AED = 26.0 INR
+---------------
+
+ 11 :35 : 47 AM
+1 USD = 95.51 INR 
+1 EUR = 109.08 INR
+1 GBP = 127.89 INR
+1 JPY = 0.59 INR
+1 AED = 26.0 INR
+---------------
+
+ 11 :35 : 57 AM
+1 USD = 95.51 INR 
+1 EUR = 109.08 INR
+1 GBP = 127.89 INR
+1 JPY = 0.59 INR
+1 AED = 26.0 INR
+---------------
+
+ 11 :36 : 07 AM
+1 USD = 95.51 INR 
+1 EUR = 109.08 INR
+1 GBP = 127.89 INR
+1 JPY = 0.59 INR
+1 AED = 26.0 INR
+---------------
+
+ 11 :36 : 17 AM
+1 USD = 95.51 INR 
+1 EUR = 109.08 INR
+1 GBP = 127.89 INR
+1 JPY = 0.59 INR
+1 AED = 26.0 INR
+---------------
+
+ 11 :36 : 28 AM
+1 USD = 95.51 INR 
+1 EUR = 109.08 INR
+1 GBP = 127.89 INR
+1 JPY = 0.59 INR
+1 AED = 26.0 INR
+---------------

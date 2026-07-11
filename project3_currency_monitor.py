@@ -47,7 +47,7 @@ def get_currency_details():
         print(f"*** 1 USD = {USD} INR ", end =" ***") 
         print()
 
-     with open("currency_log.txt","a") as f:
+     with open("currency_log.txt","a",encoding= "utf-8") as f:
           f.write(f"\n {timestamp}")
           f.write(f"\n1 USD = {USD} INR ")
           f.write(f"\n1 EUR = {EUR} INR")
