@@ -1,0 +1,57 @@
+[1mdiff --git a/lesson2_weather.py b/lesson2_weather.py[m
+[1mindex b1d0cb9..400dbcb 100644[m
+[1m--- a/lesson2_weather.py[m
+[1m+++ b/lesson2_weather.py[m
+[36m@@ -1,6 +1,8 @@[m
+[32m+[m[32mimport os[m
+[32m+[m
+ import requests[m
+ [m
+[31m-API_KEY = "a3942e1d39d496eceff6564e38b40e2c"[m
+[32m+[m[32mAPI_KEY = os.getenv("WEATHER_API_KEY")[m
+ city = "Thanjavur,IN"[m
+ [m
+ url =f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=metric"[m
+[1mdiff --git a/lesson4_api_call.py b/lesson4_api_call.py[m
+[1mindex 941355d..db2ac98 100644[m
+[1m--- a/lesson4_api_call.py[m
+[1m+++ b/lesson4_api_call.py[m
+[36m@@ -1,7 +1,8 @@[m
+ import requests [m
+ from datetime import datetime [m
+[32m+[m[32mimport os[m
+ [m
+[31m-API_KEY = "a3942e1d39d496eceff6564e38b40e2c"[m
+[32m+[m[32mAPI_KEY = os.getenv("WEATHER_API_KEY")[m
+ [m
+ def get_weather(city):[m
+     url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=metric"[m
+[1mdiff --git a/lesson5_scheduling.py b/lesson5_scheduling.py[m
+[1mindex 65189e3..e019cf4 100644[m
+[1m--- a/lesson5_scheduling.py[m
+[1m+++ b/lesson5_scheduling.py[m
+[36m@@ -2,8 +2,9 @@[m [mimport requests[m
+ import time [m
+ import schedule [m
+ from datetime import datetime [m
+[32m+[m[32mimport os[m
+ [m
+[31m-API_KEY = "a3942e1d39d496eceff6564e38b40e2c"[m
+[32m+[m[32mAPI_KEY = os.getenv("WEATHER_API_KEY")[m
+ [m
+ def get_weather(city):[m
+      url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=metric"[m
+[1mdiff --git a/project1_weather_alert.py b/project1_weather_alert.py[m
+[1mindex d3b5f9b..7e3a147 100644[m
+[1m--- a/project1_weather_alert.py[m
+[1m+++ b/project1_weather_alert.py[m
+[36m@@ -1,7 +1,8 @@[m
+ import requests [m
+ from datetime import datetime [m
+[32m+[m[32mimport os[m[41m [m
+ [m
+[31m-API_KEY = "a3942e1d39d496eceff6564e38b40e2c"[m
+[32m+[m[32mAPI_KEY = os.getenv("WEATHER_API_KEY")[m
+ [m
+ def get_weather(city):[m
+     url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=metric"[m

@@ -1,6 +1,8 @@
+import os
+
 import requests
 
-API_KEY = "a3942e1d39d496eceff6564e38b40e2c"
+API_KEY = os.getenv("WEATHER_API_KEY")
 city = "Thanjavur,IN"
 
 url =f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=metric"
